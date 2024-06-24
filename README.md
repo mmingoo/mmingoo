@@ -1,20 +1,8 @@
-# 안녕하세요! 👋
+# 안녕하세요 성장을 추구하는 백엔드 개발자 최민영입니다 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmingoo&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/mmingoo?label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/mmingoo?label=Stars)
-
-저는 백엔드 개발자 **최민영**입니다. 다음은 제 프로필과 관련된 간략한 소개입니다.
-
-
-
-## 🌟 Intersting
-
-- **백엔드 개발**: Java, Spring Boot, RESTful APIs
-- **데이터베이스**: MySQL
-- **클라우드 컴퓨팅**: AWS
-- **기타 기술**: Docker
-
 
   
 ## 📫 Contact
