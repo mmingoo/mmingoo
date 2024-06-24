@@ -12,5 +12,9 @@
 - **Instargram**: [@inimmiih](https://www.instagram.com/inimmiih/)
 - **개인 웹사이트**: [https://aibigdata-study.tistory.com/](https://aibigdata-study.tistory.com/)
 
+## 📈 GitHub 통계
+
+![mmingoo GitHub 통계](https://github-readme-stats.vercel.app/api?username=mmingoo&show_icons=true&theme=radical)
+![mmingoo GitHub 언어 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=mmingoo&layout=compact&theme=radical)
 
 ![Footer](https://img.shields.io/badge/%F0%9F%9A%80-Happy%20Coding-blue)
