@@ -15,9 +15,10 @@
 - 
 ## 📫 연락 방법
 
-- **이메일**: [your-email@example.com](mailto:aldrn0323@naver.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- **개인 웹사이트**: [your-website.com](https://aibigdata-study.tistory.com/)
+- **이메일**: [aldrn0323@naver.com](aldrn0323@naver.com)
+- **Instargram**: [@inimmiih](https://www.instagram.com/inimmiih/)
+- **개인 웹사이트**: [https://aibigdata-study.tistory.com/](https://aibigdata-study.tistory.com/)
+
 
 ## 🛠 기술 스택
 
