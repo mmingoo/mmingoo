@@ -15,9 +15,9 @@
 - 
 ## 📫 연락 방법
 
-- **이메일**: [your-email@example.com](mailto:your-email@example.com)
+- **이메일**: [your-email@example.com](mailto:aldrn0323@naver.com)
 - **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- **개인 웹사이트**: [your-website.com](https://your-website.com)
+- **개인 웹사이트**: [your-website.com](https://aibigdata-study.tistory.com/)
 
 ## 🛠 기술 스택
 
