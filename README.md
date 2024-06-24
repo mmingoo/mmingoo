@@ -1,4 +1,3 @@
-## Hi there 👋
 # 안녕하세요! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmingoo&color=blueviolet)
@@ -10,10 +9,10 @@
 ## 🌟 주요 관심사
 
 - **백엔드 개발**: Java, Spring Boot, RESTful APIs
-- **데이터베이스**: MySQL, PostgreSQL, MongoDB
-- **클라우드 컴퓨팅**: AWS, Azure
-- **기타 기술**: Docker, Kubernetes, CI/CD
-
+- **데이터베이스**: MySQL
+- **클라우드 컴퓨팅**: AWS
+- **기타 기술**: Docker
+- 
 ## 📫 연락 방법
 
 - **이메일**: [your-email@example.com](mailto:your-email@example.com)
