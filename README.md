@@ -9,7 +9,7 @@
 ## 📫 Contact
 
 - **이메일**: [aldrn0323@naver.com](aldrn0323@naver.com)
-- **Instargram**: [@inimmiih](https://www.instagram.com/inimmiih/)
+- **Instargram**: [inimmiih](https://www.instagram.com/inimmiih/)
 - **개인 웹사이트**: [https://aibigdata-study.tistory.com/](https://aibigdata-study.tistory.com/)
 
 ## 📈 GitHub 통계
