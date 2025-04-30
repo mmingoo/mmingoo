@@ -1,6 +1,5 @@
 # 안녕하세요! 헌신하는 개발자 백엔드 개발자 최민영입니다 👋
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmmingoo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![Profile views](https://komarev.com/ghpvc/?username=mmingoo&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/mmingoo?label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/mmingoo?label=Stars)
