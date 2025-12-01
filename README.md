@@ -1,4 +1,4 @@
-# 안녕하세요! 헌신하는 개발자 백엔드 개발자 최민영입니다 👋
+# 안녕하세요! 핵심을 추구하는 백엔드 개발자 최민영입니다 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=mmingoo&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/mmingoo?label=Followers)
